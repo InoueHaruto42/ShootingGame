@@ -4,8 +4,7 @@ Unityで制作した2Dシューティングゲームです。宇宙船を操作�
 
 ## ▶ 今すぐ遊ぶ
 
-**ブラウザでプレイできます(インストール不要):**
-👉 **https://inoueharuto42.github.io/ShootingGame/**
+ **https://inoueharuto42.github.io/ShootingGame/**
 
 ## ゲームの特徴
 
